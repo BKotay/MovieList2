@@ -1,4 +1,4 @@
-#BK MOVIE API
+BK MOVIE API
 
 Hello, my name is Blamah Kotay and this is my NODE MOVIE API.
 
@@ -17,3 +17,5 @@ Error handling for invalid or empty search queries.
 Loading message during the search request.
 
 Go to the hosted site below: 
+
+https://movie-list2-mu.vercel.app/
